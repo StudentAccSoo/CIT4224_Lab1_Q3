@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "sass": "^1.86.1",
+    "vite": "^6.2.4"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "compile": "sass style.scss style.css"
+  }
+}
